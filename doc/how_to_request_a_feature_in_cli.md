@@ -1,4 +1,4 @@
-How to Request a Feature in CLI
+How to Request a Feature in CLi
 ======
 
 This article aims to provide a guide for service team to request a feature in Azure CLI.
